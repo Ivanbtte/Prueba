@@ -4,9 +4,9 @@ package entity;
 
 public class Saludo {
 
-
-    public static void main(String[] args) {
-
-    }
+        public void metodo1(){
+            System.out.println("Soy el uno");
+        }
+    
     
 }
